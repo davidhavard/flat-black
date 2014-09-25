@@ -1,6 +1,8 @@
-flat-black
-==========
+paint-it-black
+==============
 
-Flat and Black Theme for Chrome Browser
+Black Theme for Chrome Browser
 
 Going for minimal effects and all black.
+
+See: https://code.google.com/p/chromium/wiki/ThemeCreationGuide for packaging details.
