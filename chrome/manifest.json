@@ -8,7 +8,7 @@
       "button_background": [ 0, 0, 0 ],
       "control_background": [ 0, 0, 0 ],
       "frame": [ 0, 0, 0 ],
-      "frame_inactive": [ 255, 255, 255 ],
+      "frame_inactive": [ 0, 0, 0 ],
       "frame_incognito": [ 0, 0, 0 ],
       "frame_incognito_inactive": [ 0, 0, 0 ],
       "ntp_background": [ 0, 0, 0 ],
